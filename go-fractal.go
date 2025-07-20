@@ -20,7 +20,7 @@ func (m Image) ColorModel() color.Model {
 
 func (m Image) Bounds() image.Rectangle {
 	res := baseRes * m.res
-	return image.Rect(0, 0, res-1, res-1)
+	return image.Rect(0, 0, res, res)
 }
 
 func (m Image) At(x, y int) color.Color {
