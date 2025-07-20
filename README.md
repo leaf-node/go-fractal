@@ -5,4 +5,4 @@ online tutorial.
 
 ## Result
 
-<img src="https://github.com/leaf-node/open_alert_viewer/blob/main/fractal.png"
+<img width="830px" height="auto" src="https://github.com/leaf-node/open_alert_viewer/blob/main/fractal.png"
