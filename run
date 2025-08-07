@@ -1,4 +1,0 @@
-#! /bin/bash
-
-go build && ./go-fractal > fractal.png && echo "Now open: fractal.png"
-
