@@ -13,4 +13,4 @@ z := (x^2 + y^2) % 256
 
 ## Result
 
-<img width="830px" height="auto" src="https://raw.githubusercontent.com/leaf-node/go-fractal/refs/heads/main/fractal.png">
+<img src="https://raw.githubusercontent.com/leaf-node/go-fractal/refs/heads/main/fractal.png">
